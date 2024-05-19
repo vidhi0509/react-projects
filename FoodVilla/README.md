@@ -2,7 +2,7 @@
 
 "FoodVilla" is a user-friendly mobile application designed to streamline the process of ordering food from a variety of restaurants. With an intuitive interface and robust features, FoodVilla aims to enhance the dining experience for users by providing a convenient platform to browse menus, place orders, and track deliveries with ease.
 
-# Features in rootShoot:
+# Features in FoodVilla:
 - Home page / Landing Page
 - Product listing page
 - Search restaurant
